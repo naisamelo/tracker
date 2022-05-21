@@ -1,0 +1,23 @@
+.format {
+  font-family: sans-serif;
+  text-align: justify;
+}
+
+#home {
+  background: #FFF5EE;
+}
+
+a {
+  text-decoration: none;
+  font-family: cursive;
+  font-size: 20px;
+  border: black;
+}
+
+h1{
+  text-align: center;
+}
+
+img{
+  margin: 0;
+}
